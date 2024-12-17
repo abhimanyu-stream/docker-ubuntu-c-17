@@ -1,0 +1,24 @@
+# Ignore bash-related files
+.bash_history
+.bashrc
+.profile
+
+# Ignore cache and configuration directories
+.cache/
+.dotnet/
+.local/
+
+# Ignore Git configuration file
+.gitconfig
+
+# Ignore VSCode server directory
+.vscode-server/
+
+# Ignore external libraries folder
+addexternallib/
+
+# Ignore workspace and source code directories
+cplusplus.code-workspace
+# Ignore build directory
+addexternallib/build/
+cplusplus/build/
